@@ -1,5 +1,5 @@
 public class CajaBlanca {
-    //Esta modificacion ha sido realizada por Joaquin Segura Martinez
+    //Modificacion ha sido realizada por Joaquin Segura Martinez
     public static int ej1(int a, int b, int c){
         int x=5;
         if ((a>1) && (b>5) && (c<2)) {
