@@ -1,5 +1,9 @@
 public class CajaBlanca {
     //Modificacion ha sido realizada por Joaquin Segura Martinez
+
+
+    //Este ejercicio declara una variable numerica, adenas devuelve esta misma variavle
+    // dependiendo de los valores de las variable a, b y c
     public static int ej1(int a, int b, int c){
         int x=5;
         if ((a>1) && (b>5) && (c<2)) {
@@ -10,7 +14,7 @@ public class CajaBlanca {
         }
         return x;
     }
-
+    //Este es igual pero solo cambian las condiciones de las variables a, b y c
     public static int ej2(int a, int b, int c){
         int x=5;
         if ((a>1) || (b>5) || (c<2))
